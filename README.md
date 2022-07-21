@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shraddhagarat
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/shraddha-garat-7a3b5b228/">Shraddha</a>
 - 👀 I’m interested in User Experience Design and Front-end Technology
 - 🌱 I’m currently learning Figma and React
 
